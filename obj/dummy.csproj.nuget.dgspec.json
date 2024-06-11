@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.NetCoreee\\project1\\dummy\\dummy.csproj": {}
+    "D:\\.NetCoreee\\dummy\\dummy.csproj": {}
   },
   "projects": {
-    "D:\\.NetCoreee\\project1\\dummy\\dummy.csproj": {
+    "D:\\.NetCoreee\\dummy\\dummy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.NetCoreee\\project1\\dummy\\dummy.csproj",
+        "projectUniqueName": "D:\\.NetCoreee\\dummy\\dummy.csproj",
         "projectName": "dummy",
-        "projectPath": "D:\\.NetCoreee\\project1\\dummy\\dummy.csproj",
+        "projectPath": "D:\\.NetCoreee\\dummy\\dummy.csproj",
         "packagesPath": "C:\\Users\\SHENBAGARAJ K\\.nuget\\packages\\",
-        "outputPath": "D:\\.NetCoreee\\project1\\dummy\\obj\\",
+        "outputPath": "D:\\.NetCoreee\\dummy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SHENBAGARAJ K\\AppData\\Roaming\\NuGet\\NuGet.Config"
